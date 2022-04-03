@@ -18,7 +18,7 @@ env:
   REPO_URL: https://github.com/openwrt/openwrt
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
-  CONFIG_FILE: cfg_rm2100.config
+  CONFIG_FILE: cfg_ac2100.config
   # Custom feeds
   DIY_P1_SH: custom-feeds.sh
   # Custom configuration
